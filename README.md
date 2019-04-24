@@ -1,2 +1,2 @@
 # automating-aws-with-python
-Repository for project of automating AWS with pythong
+Repository for Acloud guru project of automating AWS with pythong
